@@ -1,7 +1,7 @@
 <h1 align="center"> Blog de Gatos </h1>
 
 <p align="center">
-O Blog de gatos é uma aplicação proposta pela RocketSeat no programa de formação FULLSTACK EXPLORER e desenvolvida por mim, Juliano Mariano. <br/>
+O Cosmo Felino é uma aplicação proposta pela RocketSeat no programa de formação FULLSTACK EXPLORER e desenvolvida por mim, Juliano Mariano. <br/>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ O Blog de gatos é uma aplicação proposta pela RocketSeat no programa de forma
 <br>
 
 <p align="center">
-  <img alt="Blog de gatos" src="./assets/imgReadme.png" width="80%">
+  <img alt="Cosmo Felino" src="./assets/imgReadme.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
