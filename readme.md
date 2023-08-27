@@ -1,4 +1,4 @@
-<h1 align="center"> Blog de Gatos </h1>
+<h1 align="center"> Cosmo Felino </h1>
 
 <p align="center">
 O Cosmo Felino é uma aplicação proposta pela RocketSeat no programa de formação FULLSTACK EXPLORER e desenvolvida por mim, Juliano Mariano. <br/>
