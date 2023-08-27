@@ -36,7 +36,7 @@ Nossos redatores especializados investigam e apresentam as histórias mais emoci
 
 Então, junte-se a nós enquanto desvendamos os mistérios do universo felino e celebramos a coragem e a curiosidade dos gatos que ousam explorar o espaço sideral. No CosmoFelino, a galáxia é a fronteira final, e nossos amigos peludos estão prontos para conquistá-la!
 
-- [Visite o projeto online](https://julianomariano.github.io/FocusTimer-2.0/)
+- [Visite o projeto online](https://julianomariano.github.io/cosmo-felino/)
 
 ## 🔖 Layout
 
