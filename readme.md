@@ -14,7 +14,7 @@ O Blog de gatos é uma aplicação proposta pela RocketSeat no programa de forma
 <br>
 
 <p align="center">
-  <img alt="Blog de gatos" src="./assets/FocusTimer.png" width="80%">
+  <img alt="Blog de gatos" src="./assets/imgReadme.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
