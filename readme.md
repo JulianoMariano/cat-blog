@@ -1,7 +1,7 @@
-<h1 align="center"> Cronometro - Focus Timer </h1>
+<h1 align="center"> Blog de Gatos </h1>
 
 <p align="center">
-O Focus Timer 2.0 é uma aplicação proposta pela RocketSeat no programa de formação FULLSTACK EXPLORER e desenvolvida por mim, Juliano Mariano. <br/>
+O Blog de gatos é uma aplicação proposta pela RocketSeat no programa de formação FULLSTACK EXPLORER e desenvolvida por mim, Juliano Mariano. <br/>
 </p>
 
 <p align="center">
@@ -14,33 +14,33 @@ O Focus Timer 2.0 é uma aplicação proposta pela RocketSeat no programa de for
 <br>
 
 <p align="center">
-  <img alt="cronometro" src="./assets/FocusTimer.png" width="80%">
+  <img alt="Blog de gatos" src="./assets/FocusTimer.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
+- HTML e CSS;
+- Git e Github;
+- Figma.
 
 ## 💻 Projeto
 
-Bem-vindo à nossa aplicação de cronômetro!
+Bem-vindo ao CosmoFelino!
 
-Com esta ferramenta, você pode facilmente medir o tempo de qualquer atividade que desejar. Basta pressionar o botão "Set" para escolher o tempo que deseja, o botão "Play" para começar a cronometrar o tempo e o botão "Pause" para interromper a contagem. Se quiser, pode reiniciar a contagem controlada pelo botão "Stop". Você pode escolher aumentar ou diminuir o tempo em 1 minuto, através dos botões "+" e "-". 
+O CosmoFelino é o seu destino online para tudo relacionado aos fascinantes felinos que ousam explorar os mistérios do espaço sideral. Aqui, celebramos a ideia ousada de que gatos são muito mais do que animais de estimação - eles são verdadeiros astronautas cósmicos! Nossa comunidade acredita que os gatos têm habilidades secretas que os capacitam a conquistar os céus, e estamos aqui para compartilhar histórias, curiosidades e evidências que sustentam essa teoria felina.
 
-Além disso, temos quatro botões de música temática para ajudá-lo a criar uma atmosfera perfeita para sua atividade. Se você precisar se concentrar, pode selecionar uma melodia da floresta para relaxar e se concentrar. Se você estiver estudando ou trabalhando, a melodia da chuva pode ajudar a aumentar a sua produtividade. Se você está se preparando para uma reunião importante ou precisa de um ambiente mais animado, pode escolher a melodia da cafeteria para criar uma atmosfera animada e descontraída. E se você quiser relaxar depois de um dia agitado, pode escolher a melodia da lareira para criar um ambiente acolhedor e aconchegante.
+Artigos Cativantes: 
+Nossos redatores especializados investigam e apresentam as histórias mais emocionantes de gatos que embarcaram em aventuras extraterrestres. De relatos históricos de gatos misteriosamente desaparecidos em épocas de lançamentos espaciais até contos modernos de avistamentos felinos em naves espaciais, trazemos a você narrativas cativantes que deixarão você se perguntar: "Será que os gatos são realmente astronautas?"
 
-Experimente agora e aproveite de uma contagem precisa e fácil de usar do tempo!
+Então, junte-se a nós enquanto desvendamos os mistérios do universo felino e celebramos a coragem e a curiosidade dos gatos que ousam explorar o espaço sideral. No CosmoFelino, a galáxia é a fronteira final, e nossos amigos peludos estão prontos para conquistá-la!
 
 - [Visite o projeto online](https://julianomariano.github.io/FocusTimer-2.0/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/lJCn8jjNoYWT24t7AcEgoY/Stage-05---Focus-Timer-2.0-(Copy)?node-id=0-1&t=O7AigKSVF5uiqR65-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/RxUSmVX3lMZWIvA2O0bfZu/Blog-de-Gatos-%E2%80%A2-Desafio-Explorer-(Community)?node-id=0%3A1&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 🌐 Contato
 
